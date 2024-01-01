@@ -164,7 +164,7 @@ margin_right = 226.0
 margin_bottom = 428.0
 theme = SubResource( 3 )
 custom_fonts/font = SubResource( 5 )
-text = "Logros"
+text = "LOGROS"
 
 [node name="Crosshair" type="Button" parent="."]
 margin_left = 68.0

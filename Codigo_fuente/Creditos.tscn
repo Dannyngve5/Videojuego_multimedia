@@ -83,14 +83,16 @@ text = "ELABORADO POR:"
 
 [node name="Label" type="Label" parent="."]
 modulate = Color( 0, 0, 0, 1 )
-margin_left = 208.0
-margin_top = 305.5
-margin_right = 804.0
-margin_bottom = 550.5
+margin_left = 60.0
+margin_top = 322.0
+margin_right = 1005.0
+margin_bottom = 567.0
 custom_fonts/font = SubResource( 7 )
-text = "DANIEL EDUARDO PARRA GÓMEZ
-JUAN FELIPE RODRIGUEZ GALINDO
-JOHAN SEBASTIAN RINCÓN AMAYA"
+text = "Desarrollo general: Daniel Eduardo Parra Gómez
+GUI: Juan Felipe Rodriguez Galindo y Daniel Eduardo Parra Gómez
+Voz cinemáticas: Barillaro Misael Nazareno
+Assets: Autores en la documentación
+"
 align = 1
 valign = 1
 
