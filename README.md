@@ -13,9 +13,9 @@
 [![Daniel Eduardo Parra Gómez](https://img.shields.io/badge/Dannyngve5-github-br?style=flat-square)](https://github.com/Dannyngve5)
 
 
-**Proyecto final de la materia Multimedia, consiste en un videojuego 2D tipo Shooter.**
+**Proyecto final de la materia Multimedia, consiste en un videojuego 2D tipo Shooter en donde se deberá superar dos niveles con cierta dificultad.**
 Puedes jugarlo de forma web [aquí][4]
-O de forma local descargando el zip encontrado en el proyecto.
+O de forma local en windows o linux con los ejecutables encontrados en [ejecutable][5]
 
 <br>
 
@@ -32,4 +32,5 @@ O de forma local descargando el zip encontrado en el proyecto.
 [1]:https://github.com/Dannyngve5
 [2]:https://github.com/Dannyngve5/Videojuego_multimedia/tree/main/Codigo_fuente
 [3]:https://github.com/Juferoga
-[4]: https://dannyngve5.github.io/Videojuego_multimedia/
+[4]:https://dannyngve5.github.io/Videojuego_multimedia/
+[5]:https://github.com/Dannyngve5/Videojuego_multimedia/tree/main/Codigo_fuente/Ejecutable
