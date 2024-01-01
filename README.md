@@ -13,7 +13,7 @@
 [![Daniel Eduardo Parra Gómez](https://img.shields.io/badge/Dannyngve5-github-br?style=flat-square)](https://github.com/Dannyngve5)
 
 
-**Proyecto final de la materia Multimedia, consiste en un videojuego 2D tipo Shooter en donde se deberá superar dos niveles con cierta dificultad.**
+**Proyecto final de la materia Multimedia, consiste en un videojuego 2D tipo Shooter elaborado en godot 3.5 en donde se deberá superar dos niveles con cierta dificultad.**
 Puedes jugarlo de forma web [aquí][4]
 O de forma local en windows o linux con los ejecutables encontrados en [ejecutable][5]
 
